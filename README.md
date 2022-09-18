@@ -2,4 +2,4 @@
 Real-time Egg size classification and counting AI that developed in 2021.
 
 
-![](./images/egg-counting.gif)
+![](/images/egg-counting.gif)
